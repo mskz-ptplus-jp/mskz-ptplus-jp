@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 </p>
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mskz-ptplus-jp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mskz-ptplus-jp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://paiza-webapp.s3.ap-northeast-1.amazonaws.com/applicantglickoratingshareimage/8952/image/c315276ff1a73e8b60342213cc946cf2.png)
