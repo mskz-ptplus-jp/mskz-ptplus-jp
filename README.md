@@ -30,4 +30,4 @@ Here are some ideas to get you started:
   <img alig src="https://github-profile-trophy.vercel.app/?username=mskz-ptplus-jp&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<img alt="paiza rating" src="https://paiza-webapp.s3.ap-northeast-1.amazonaws.com/applicantglickoratingshareimage/8952/image/c315276ff1a73e8b60342213cc946cf2.png">
+[![](https://paiza-webapp.s3.ap-northeast-1.amazonaws.com/applicantglickoratingshareimage/8952/image/c315276ff1a73e8b60342213cc946cf2.png)](https://paizasupport.zendesk.com/hc/ja/articles/900000513106)
