@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskz-ptplus-jp&layout=compact&count_private=true&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mskz-ptplus-jp&count_private=true&show_icons=true&show_icons=true" />
-</p>
-
 <!--
 [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -31,3 +26,10 @@ Here are some ideas to get you started:
 </p>
 
 [![](https://paiza-webapp.s3.ap-northeast-1.amazonaws.com/applicantglickoratingshareimage/8952/image/c315276ff1a73e8b60342213cc946cf2.png)](https://paizasupport.zendesk.com/hc/ja/articles/900000513106)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskz-ptplus-jp&layout=compact&count_private=true&show_icons=true" />
+  <!--
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mskz-ptplus-jp&count_private=true&show_icons=true&show_icons=true" />
+  -->
+</p>
