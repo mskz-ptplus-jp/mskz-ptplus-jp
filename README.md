@@ -21,15 +21,13 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->
 
-<p align="center">
+<p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=mskz-ptplus-jp&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-[![](https://paiza-webapp.s3.ap-northeast-1.amazonaws.com/applicantglickoratingshareimage/8952/image/c315276ff1a73e8b60342213cc946cf2.png)](https://paizasupport.zendesk.com/hc/ja/articles/900000513106)
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskz-ptplus-jp&layout=compact&count_private=true&show_icons=true" />
-  <!--
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mskz-ptplus-jp&count_private=true&show_icons=true&show_icons=true" />
+  <!--
   -->
 </p>
