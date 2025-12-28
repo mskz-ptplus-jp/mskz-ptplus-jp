@@ -19,3 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 9
+          EXCLUDE: ""
+          AUTO_PUSH: true
