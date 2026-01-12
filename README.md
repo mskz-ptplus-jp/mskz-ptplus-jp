@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mskz-ptplus-jp/mskz-ptplus-jp/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->
 
+<!--
 <p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=mskz-ptplus-jp&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
@@ -28,6 +29,5 @@ Here are some ideas to get you started:
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mskz-ptplus-jp&layout=compact&count_private=true&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mskz-ptplus-jp&count_private=true&show_icons=true&show_icons=true" />
-  <!--
-  -->
 </p>
+-->
